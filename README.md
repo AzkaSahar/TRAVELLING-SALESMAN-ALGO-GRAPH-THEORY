@@ -1,15 +1,9 @@
 # Traveling Salesman Problem (TSP) Algorithms: Graph Theory Project
 
-This repository contains the **Graph Theory** course project made by 3 members, which explores and compares three algorithms—**Nearest Neighbor**, **Nearest Insertion**, and **Brute Force**—for solving the Traveling Salesman Problem (TSP). The project includes both Python and C++ implementations, with a Python-based GUI for enhanced visualization.
+This repository contains the **Graph Theory** course project, which explores and compares three algorithms—**Nearest Neighbor**, **Nearest Insertion**, and **Brute Force**—for solving the Traveling Salesman Problem (TSP). The project includes both Python and C++ implementations, with a Python-based GUI for enhanced visualization.
 
 ---
-## Group Members
 
-1. Azka Sahar Shaikh  
-2. Muhammad Sudais Katiya  
-3. Sumaiya Waheed
-
----
 
 ## Project Overview
 
